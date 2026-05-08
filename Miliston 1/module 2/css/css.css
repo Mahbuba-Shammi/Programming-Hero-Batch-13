@@ -27,7 +27,7 @@ li{
 .header{
     height: 500px;
     background-color: burlywood;
-   background-image: url('pic/cute.gif');
+    background-image: url('pic/cute.gif');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
